@@ -84,5 +84,16 @@
         }
       }
     }
+    "new string":{
+       "extractionState": "stale",
+      "localizations": {
+      "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "string test"
+          }
+        }
+      }
+    }
   }
 }
