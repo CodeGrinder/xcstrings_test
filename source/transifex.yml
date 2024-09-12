@@ -1,0 +1,6 @@
+filters:
+- filter_type: file
+  file_format: XCSTRINGS
+  source_file: source/en.xcstrings
+  source_language: en
+  translation_files_expression: 'Translations/<lang>.xcstrings'
