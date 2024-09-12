@@ -44,7 +44,7 @@
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "fsdfs"
+            "value": "fsdfs french"
           }
         }
       }
@@ -91,54 +91,7 @@
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "contact@mail.com"
-          }
-        }
-      }
-    },
-    "test_string": {
-      "extractionState": "new",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "test string"
-          }
-        },
-        "el": {
-          "stringUnit": {
-            "state": "untranslated",
-            "value": ""
-          }
-        },
-        "de": {
-          "stringUnit": {
-            "state": "untranslated",
-            "value": ""
-          }
-        },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "test string"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "test string"
-          }
-        },
-        "ru": {
-          "stringUnit": {
-            "state": "untranslated",
-            "value": ""
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "test string"
+            "value": "fr_contact@mail.com"
           }
         }
       }
