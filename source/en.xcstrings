@@ -83,14 +83,44 @@
           }
         }
       }
-    }
-    "new string":{
-       "extractionState": "stale",
+    },
+    "test_string": {
+      "extractionState": "new",
       "localizations": {
-      "en": {
+        "en": {
           "stringUnit": {
             "state": "translated",
-            "value": "string test"
+            "value": "test string"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "untranslated",
+            "value": ""
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "untranslated",
+            "value": ""
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "untranslated",
+            "value": ""
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "untranslated",
+            "value": ""
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "untranslated",
+            "value": ""
           }
         }
       }
